@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import s from './Form.module.css';
 
 export default function Form({ formData }) {
